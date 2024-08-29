@@ -1,5 +1,5 @@
-Link to the deployed system: https://web-tech-final-fa4bc.web.app/#/
- PROJECT DESCRIPTION
+# Link to the deployed system: https://web-tech-final-fa4bc.web.app/#/
+# PROJECT DESCRIPTION
 This project aims to develop a social network specifically for Ashesi students, and it involves 
 creating six functionalities using concepts like REST API, serverless, cloud deployments, and 
 Flutter. The front-end development for all functionalities was done using Flutter, and the 
@@ -25,7 +25,7 @@ The last functionality is Email Notification, which emails all users whenever a 
 made. The email states that a post has been made.
 Overall, the project aims to provide a social network exclusively for Ashesi students to 
 connect and share information.
-SYSTEM TEST
+# SYSTEM TEST
 To test the system visit the link below:
 https://web-tech-final-fa4bc.web.app/#/
 Create a profile by filling out the form with the required information and click submit. This 
